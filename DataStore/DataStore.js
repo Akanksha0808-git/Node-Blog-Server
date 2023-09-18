@@ -2,7 +2,7 @@ const data=[
   {
     id: '16',
     category: "mixer",
-    heading: "Vicky Kaushal has 'evolved beautifully' after getting married to Katrina Kaif: Couldn't have asked for...",
+    heading: "Vicky Kaushal love has 'evolved beautifully' after getting married to Katrina Kaif: Couldn't have asked for...",
     image: "https://www.pinkvilla.com/images/2023-07/1202613865_vicky-katrina-1.jpg",
     description: "Vicky Kaushal and Katrina Kaif are one of the most adorable couples in Bollywood. After dating secretly for a few years, Vicky and Katrina tied the knot in a dreamy wedding ceremony in Rajasthan in 2021. As their wedding was a hush-hush affair, Vicky and Katrina's royal nuptials were attended only by their families and close friends"
   },
