@@ -5,19 +5,14 @@ const Home = require('./Routes/RoutesCompo');
 
 const app = express();
 
-// Corspolicy
+// Corspolicy used here 
 app.use(cors({
     origin : "*"
 }))
-
-// body parser
+// body parser used here
 app.use(express.json());
 
-
-// rest Api
 app.get("/", Home)
-
-
 
 app.listen(PORT,()=>{
     console.log(`Server is Runing at http://localhost:${PORT}`)
